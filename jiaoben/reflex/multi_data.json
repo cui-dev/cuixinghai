@@ -1,0 +1,17 @@
+{
+  "2 multiply 3 is 6": {
+    "expected": 6,
+    "num1": 2,
+    "num2": 3
+  },
+  "4 multiply -3.2 is -12.8": {
+    "expected": -12.8,
+    "num1": 4,
+    "num2": -3.2
+  },
+  "0 multiply 9 is 0": {
+    "expected": 0,
+    "num1": 0,
+    "num2": 9
+  }
+}

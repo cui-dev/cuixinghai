@@ -1,0 +1,6 @@
+Open Browser,http://jacky-vpc/agileone
+Input Text,id=username,admin
+Input Password,id=password,admin
+On Click,id=login
+Wait,2
+Close Browser

@@ -1,0 +1,6 @@
+打开浏览器,http://jacky-vpc/agileone
+输入账号,id=username,admin
+输入密码,id=password,admin
+登录,id=login
+等待,2
+关闭浏览器
